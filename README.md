@@ -159,6 +159,8 @@ Supply any other information the Committee requires.
 
 14.1 Any Member may resign by giving written notice to the Secretary.
 
+14.1.1 Any Member is considered to have resigned if they have not paid the membership fee for two months unless otherwise agreed with the committee or respondend to communication.
+
 14.2 Membership terminated in the following way:
 If, for any reason whatsoever, the Committee is of the view that a Member is breaching the Rules or acting in a manner inconsistent with the purposes of the Society, the Committee may give written notice of this to the Member (“the Committee’s Notice”). The Committee’s Notice must:
 Explain how the Member is breaching the Rules or acting in a manner inconsistent with the purposes of the Society;
