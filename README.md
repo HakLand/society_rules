@@ -63,7 +63,7 @@ Their Term expires.
 
 7.3 If the position of any Committee Member becomes vacant between Annual General Meetings, the Committee may appoint another Society Member to fill that vacancy until the next Annual General Meeting.
 
-7.4 If any Committee Member is absent from three consecutive meetings without leave of absence the Chair/President may declare that person’s position to be vacant.
+7.4 If any Committee Member is absent from three consecutive meetings without leave of absence, or prior notification, the Chair/President may declare that person’s position to be vacant.
 
 ### 8.0 Role of the Committee
 
@@ -159,7 +159,7 @@ Supply any other information the Committee requires.
 
 14.1 Any Member may resign by giving written notice to the Secretary.
 
-14.1.1 Any Member is considered to have resigned if they have not paid the membership fee for two months unless otherwise agreed with the committee or respondend to communication.
+14.1.1 Any Member is considered to have resigned if they have not paid the membership fee for two months unless otherwise agreed with the committee or responded to communication.
 
 14.2 Membership terminated in the following way:
 If, for any reason whatsoever, the Committee is of the view that a Member is breaching the Rules or acting in a manner inconsistent with the purposes of the Society, the Committee may give written notice of this to the Member (“the Committee’s Notice”). The Committee’s Notice must:
