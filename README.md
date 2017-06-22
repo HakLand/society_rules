@@ -57,7 +57,7 @@ Their Term expires.
 
 ### 7.0 Nomination of Committee Members
 
-7.1 Nominations for members of the Committee shall be called for at least 10 days before an Annual General Meeting. Each candidate shall be proposed by Members and the completed nomination delivered to the Secretary. Nominations shall close at 5pm on the fifth day before the Annual General Meeting. [See also rule 21.4(b)] All retiring members of the Committee shall be eligible for re-election.
+7.1 Nominations for members of the Committee shall be called for at least 10 days before an Annual General Meeting. Each candidate shall be proposed by Members and the completed nomination delivered to the Secretary. Nominations shall close at 5pm on the third day before the Annual General Meeting. [See also rule 21.4(b)] All retiring members of the Committee shall be eligible for re-election.
 
 7.2 If the position of any Officer becomes vacant between Annual General Meetings, the Committee may appoint another Committee Member to fill that vacancy until the next Annual General Meeting.
 
@@ -225,7 +225,7 @@ If the Secretary has sent a notice to all Members in good faith, the Meeting and
 
 21.5 All Members may attend and vote at Society Meetings.
 
-21.6 No Society Meeting may be held unless at least 5% of eligible Members attend. (This will constitute a quorum.)
+21.6 No Society Meeting may be held unless at least 20% of eligible Members attend. (This will constitute a quorum.)
 
 21.7 All Society Meetings shall be Chaired by the Chair/President. If the Chair/President is absent, the Society shall elect another Committee Member to Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
 
