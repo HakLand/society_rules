@@ -17,15 +17,40 @@
 3.1 The purposes of the Society are to:
 
 Run the Hackland Makerspace shared workshop and facilities
-
-Allow for a place where people can share tools, knowledge and materials
+Allow for a place where people can share tools, knowledge and materials.
 Do anything necessary or helpful to the above purposes.
 
 3.2 Pecuniary gain is not a purpose of the Society.
 
 ## MANAGEMENT OF THE SOCIETY
 
-### 4.0 Managing Committee
+### 4.0 Special Roles
+
+4.1 Guardians
+
+To protect the safety of people in the society and the societies property, ne or more people who have the authority to remove someone from the space or temporarily suspend a person's membership (followed immediately by a Big Change Process to confirm their action was the societies will).
+
+4.2 Goldsmiths
+
+Goldsmiths have access to the funds the society has decided are to be used for improvement, repair and operation of the society.
+
+Goldsmiths may spend funds or reimburse other society members up to the current agreed limit, before it is considered a Big Change.
+
+### 5 Big Change Management Process
+Any change to the operation of the society, appointment of officers, spending in excess of $250 is considered a Big Change and falls under this process.
+
+A proposal can be started at any point, by any member of the society.
+
+A proposal must run for 7 days.
+
+All members must be notified of the creation of a new proposal and encouraged to state their position, including a show explanatory reason for their vote. 
+
+Votes are in the form of one of: Agree, Disagree, Abstain and Block.
+
+After 7 days, the proposal can pass if there is consensus (no ‘block’ votes cast against).
+
+This process is to be managed by the Loomio web service (http://loomio.org)
+
 
 4.1 The Society shall have a managing committee (“the Committee”), comprising the following persons:
 
@@ -38,52 +63,22 @@ Such other Members as the Society shall decide.
 
 4.3 There shall be a minimum of three Committee Members, in addition to the Officers.
 
-### 5.0 Appointment of Committee Members
+### 5.0 Appointment of Special Members
 
-5.1 At a Society Meeting, the Members may decide by majority vote:
-How large the Committee will be;
-Who shall be the Chair/President, Secretary, and Treasurer;
-Whether any Committee Member may hold more than one position as an officer;
-How long each person will be a Committee Member (”the Term”).
+5.1 At any point, using the Big Change Process, a new special member can be appointed or ended.
 
-### 6.0 Cessation of Committee Membership
+### 6.0 Cessation of Special Membership
 
 6.1 Persons cease to be Committee Members when:
 They resign by giving written notice to the Committee.
-They are removed by majority vote of the Society at a Society Meeting.
-Their Term expires.
+They are removed by use of the Big Change Process.
 
 6.2 If a person ceases to be a Committee Member, that person must within one month give to the Committee all Society documents and property.
 
-### 7.0 Nomination of Committee Members
 
-7.1 Nominations for members of the Committee shall be called for at least 10 days before an Annual General Meeting. Each candidate shall be proposed by Members and the completed nomination delivered to the Secretary. Nominations shall close at 5pm on the third day before the Annual General Meeting. [See also rule 21.4(b)] All retiring members of the Committee shall be eligible for re-election.
+### 8.0 Role of the Special Members
 
-7.2 If the position of any Officer becomes vacant between Annual General Meetings, the Committee may appoint another Committee Member to fill that vacancy until the next Annual General Meeting.
 
-7.3 If the position of any Committee Member becomes vacant between Annual General Meetings, the Committee may appoint another Society Member to fill that vacancy until the next Annual General Meeting.
-
-7.4 If any Committee Member is absent from three consecutive meetings without leave of absence, or prior notification, the Chair/President may declare that person’s position to be vacant.
-
-### 8.0 Role of the Committee
-
-8.1 Subject to the rules of the Society (“The Rules”), the role of the Committee is to:
-Administer, manage, and control the Society;
-Carry out the purposes of the Society, and Use Money or Other Assets to do that;
-Manage the Society’s financial affairs, including approving the annual financial statements for presentation to the Members at the Annual General Meetings;
-Set accounting policies in line with generally accepted accounting practice
-Ensure that all Members follow the Rules;
-Decide how a person becomes a Member, and how a person stops being a Member;
-Decide the times and dates for Meetings, and set the agenda for Meetings;
-Decide the procedures for dealing with complaints;
-Set Membership fees, including subscriptions and levies;
-Make regulations.
-
-8.2 The Committee has all of the powers of the Society, unless the Committee’s power is limited by these Rules, or by a majority decision of the Society.
-
-8.3 All decisions of the Committee shall be by a majority vote. In the event of an equal vote, the Chair/President shall have a casting vote, that is, a second vote.
-
-8.4 Decisions of the Committee bind the Society, unless the Committee’s power is limited by these Rules or by a majority decision of the Society.
 
 ### 9.0 Roles of Committee Members
 
